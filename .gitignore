@@ -1,0 +1,4 @@
+# 项目排除路径
+/client_admin/node_modules/
+/client_home/node_modules/
+/server/target/
